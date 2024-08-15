@@ -1,0 +1,8 @@
+contacts_api/
+│
+├── main.py
+├── models.py
+├── schemas.py
+├── database.py
+├── crud.py
+└── alembic/
